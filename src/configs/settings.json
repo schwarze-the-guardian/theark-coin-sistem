@@ -1,0 +1,6 @@
+{
+  "token": "ODM3OTg0MzE5Nzc4OTc5ODYw.YI0ftg.eOqU94LgDVryE_tCFL6GeFACewk",
+  "prefix": [".","!"],
+  "mongoUrl": "mongodb+srv://otoreg:livena_db@cluster0.sedh6.mongodb.net/register?retryWrites=true&w=majority",
+  "owners": ["751009000669184041"]
+}
